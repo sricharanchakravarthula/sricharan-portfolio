@@ -23,7 +23,7 @@ function About() {
         </ScrollAnimation>
           <div className="AboutBio">
             <ScrollAnimation animateIn="fadeInLeft">
-            Hello! My name is <strong>Sricharan Chakravarthula</strong>  and I am a passionate and dedicated Full-Stack Developer with a strong foundation in programming, DSA and web development. Currently pursuing my Bachelor of Technology in Computer Science at SR University, I have consistently demonstrated academic excellence with a GPA of 9.06/10.
+            Hello! My name is <strong>Sricharan Chakravarthula</strong>  and I am a passionate and dedicated Full-Stack Developer with a strong foundation in programming, DSA and web development. Currently pursuing my Bachelor of Technology in Computer Science at SR University, I have consistently demonstrated academic excellence with a GPA of 9.2/10.
             </ScrollAnimation>
 
             <br></br>
